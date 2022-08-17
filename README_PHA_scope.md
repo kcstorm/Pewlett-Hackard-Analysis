@@ -24,7 +24,7 @@ Using the exiting Employee_Database from Module 7:
 
 *2.1 Create a Mentorship Eligibility Table*
 
-* A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31,1965.
+* A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
 * The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
 
