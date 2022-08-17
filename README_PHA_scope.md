@@ -1,18 +1,18 @@
-# Module 7: Pewlett-Hackard Analsis Challenge Scope
+# Module 7: Pewlett-Hackard Analysis Challenge Scope
 ***
 ## **Deliverable Requirements**
 
-**1.0 The Number fo Retiring Employees by Title**
+**1.0 The Number of Retiring Employees by Title**
 
 Using the exiting Employee_Database from Module 7:
 
 *1.1 Create a Retirement Titles Table*
 
-* A query is written and executed to create a Retirement Titles table for employees whoe are born between January 1, 1952 and December 31, 1955.
+* A query is written and executed to create a Retirement Titles table for employees who were born between January 1, 1952 and December 31, 1955.
 
 * The Retirement Titles table is exported as retirement_titles.csv.
 
-* A query is written and exectuted to create a Unique Titles table that contains the employee number, first and last names, and most recent title.
+* A query is written and executed to create a Unique Titles table that contains the employee number, first and last names, and most recent title.
 
 * The Unique Titles table is exported as unique_titles.csv.
 
@@ -20,11 +20,11 @@ Using the exiting Employee_Database from Module 7:
 
 * The Retiring Titles table is exported as retiring_titles.csv.
 
-**2.0 The Employees Eligible for the Mentoriship Program**
+**2.0 The Employees Eligible for the Mentorship Program**
 
 *2.1 Create a Mentorship Eligibility Table*
 
-* A query is written and executed to create a Mentorship Eligiblity table for current employees who were born between January 1, 1965 and December 31,1965.
+* A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31,1965.
 
 * The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
 
